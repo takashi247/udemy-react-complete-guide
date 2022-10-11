@@ -1,3 +1,4 @@
 node_modules
 udemy_summaries
 .eslintcache
+.DS_Store
